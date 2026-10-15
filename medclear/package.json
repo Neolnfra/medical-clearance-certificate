@@ -1,0 +1,20 @@
+{
+  "name": "labsense",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "知险 LabSense - 校园实验室安全多智能体智控中枢",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 4173"
+  },
+  "dependencies": {
+    "echarts": "^5.5.1",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.7"
+  }
+}
