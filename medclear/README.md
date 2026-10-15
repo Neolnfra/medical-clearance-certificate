@@ -82,11 +82,6 @@ npm run preview
 ├── index.html
 ├── package.json
 ├── vite.config.js
-├── docs/                     # 参赛文档
-│   ├── 场景分析报告.md
-│   ├── 作品说明文章.md
-│   ├── 评审对照与竞争优势.md
-│   └── 30秒演示视频脚本.md
 └── src
     ├── App.vue
     ├── main.js
